@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d1bccbe168372021",
+    "type": "split",
+    "children": [
+      {
+        "id": "b97b043145da8330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d460f08b01c572",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7ff569d1a9f2eb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03da16233d709ac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "db5682b9296da486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17124502e4fd8e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9517ff3057dbe30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30a1f5c843684610",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "8e0e761acb91fb91",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb697e5c3a68729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee0e192ccfdfaa5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce60644417854ff1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f0dba4a964938337",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50a122396718cef4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+    }
+  },
+  "active": "7ff569d1a9f2eb20",
+  "lastOpenFiles": [
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Статус автомата.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+    "shaker телеметрия/Управление автоматом.md",
+    "2024-01-19.md",
+    "2024-01-22.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Склад автомата.md",
+    "img/Pasted image 20240119122835.png",
+    "img/Pasted image 20240119124623.png",
+    "img/Pasted image 20240119124543.png",
+    "img/Pasted image 20240119124412.png",
+    "img/Pasted image 20240119124116.png",
+    "img/Pasted image 20240119124102.png",
+    "img/Pasted image 20240119123718.png",
+    "img/Pasted image 20240119123648.png",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Детальная информация о автомате.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат",
+    "img/Pasted image 20240119104930.png",
+    "img/Pasted image 20240119105117.png",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Создание автомата.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Страница настройки автомата.md",
+    "img",
+    "Без названия.canvas",
+    "shaker телеметрия/shaker телеметрия.md",
+    "shaker телеметрия/Управление организацией.md",
+    "shaker телеметрия/База ингредиентов.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Управление автоматом.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Настройки автомата (страница настроек).md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Цены и дозировки.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Наполнение автомата.md",
+    "shaker телеметрия/Готовый функционал/Управление организацией",
+    "shaker телеметрия/Готовый функционал/Управление автоматом",
+    "shaker телеметрия/Готовый функционал/База ингредиентов",
+    "shaker телеметрия/Готовый функционал",
+    "shaker телеметрия/Хвосты/Управление автоматом",
+    "shaker телеметрия/Хвосты/Управление организацией",
+    "shaker телеметрия/Хвосты/База ингредиентов",
+    "shaker телеметрия/Без названия.md",
+    "style guide/компонент.md",
+    "style guide/jsdoc.md",
+    "style guide/наименования констант локализации.md",
+    "style guide/Наименование и коментарии.md",
+    "Программа для Ильи/Список банков и информации необходимой из них.md",
+    "Программа для Ильи/Мой склад.md",
+    "Программа для Ильи/Схема приложения.canvas",
+    "Программа для Ильи/План действий.md",
+    "shaker/Контрагенты.canvas",
+    "shaker/Без названия.canvas",
+    "shaker/Golang с Николаем.canvas",
+    "shaker/Автоматы и торговые точки.canvas",
+    "shaker/Управление ценами.canvas",
+    "shaker/dashboards.canvas",
+    "shaker/Без названия/Желаемая блок схема.canvas",
+    "shaker/Без названия/Блок схема.canvas"
+  ]
+}
