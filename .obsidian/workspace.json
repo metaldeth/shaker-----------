@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b92bee087bf566c",
+            "id": "ffadc6be81bad57c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,61 +16,13 @@
               "state": {
                 "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b026cd60be5d30de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c7b6d9f7b49991c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05a261e31cd8cc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7adff61076f00e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Добавить_в_макет",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,73 +79,96 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb697e5c3a68729",
-        "type": "tabs",
+        "id": "32b97772934342e0",
+        "type": "split",
         "children": [
           {
-            "id": "ee0e192ccfdfaa5e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2024-01-19.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+            "id": "8cb697e5c3a68729",
+            "type": "tabs",
+            "dimension": 53.57142857142857,
+            "children": [
+              {
+                "id": "ee0e192ccfdfaa5e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ce60644417854ff1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "f0dba4a964938337",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "50a122396718cef4",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md"
+                  }
+                }
+              },
+              {
+                "id": "3b72a5044c0afc18",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
               }
-            }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "ce60644417854ff1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "2024-01-19.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
+            "id": "ee592dfadd421fd2",
+            "type": "tabs",
+            "dimension": 46.42857142857143,
+            "children": [
+              {
+                "id": "fea9c1e269e5afd0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "f0dba4a964938337",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "50a122396718cef4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2024-01-19.md"
-              }
-            }
-          },
-          {
-            "id": "3b72a5044c0afc18",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "vertical"
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 811.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +181,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "7adff61076f00e58",
+  "active": "ffadc6be81bad57c",
   "lastOpenFiles": [
-    "2024-01-26.md",
     "2024-01-25.md",
     "2024-01-24.md",
+    "2024-01-19.md",
+    "2024-01-26.md",
     "2024-01-23.md",
     "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "mind.md",
     "shaker телеметрия/Хвосты/Компоненты/Chips.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Задачи/Управление автоматом/Модель/Группы моделей автомата.md",
@@ -229,7 +206,6 @@
     "shaker телеметрия/Задачи/Акции и промокоды/Система лояльности",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды",
     "shaker телеметрия/Задачи/Акции и промокоды",
-    "2024-01-19.md",
     "Люди/Люди.md",
     "Люди",
     "Pasted image 20240123113910.png",
@@ -241,7 +217,6 @@
     "shaker телеметрия/Управление организацией.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Настройки автомата (страница настроек).md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Наполнение автомата.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Детальная информация о автомате.md",
     "img/Pasted image 20240119122835.png",
     "img/Pasted image 20240119124623.png",
     "img/Pasted image 20240119124543.png",
