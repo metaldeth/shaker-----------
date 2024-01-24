@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "b97b043145da8330",
+        "id": "e34733a4243cefd0",
         "type": "tabs",
         "children": [
           {
-            "id": "64d460f08b01c572",
+            "id": "5b92bee087bf566c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a3db2d217fe1b852",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b026cd60be5d30de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c1bfc05d09cc8722",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,21 +62,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "73938640983f816c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Доработки_бэк",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,12 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md"
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,19 +192,31 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "73938640983f816c",
+  "active": "5b92bee087bf566c",
   "lastOpenFiles": [
+    "2024-01-24.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Группы моделей автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+    "Люди/Рома.md",
+    "2024-01-23.md",
+    "2024-01-19.md",
+    "Люди/Саша бэк.md",
+    "Люди/Демьян.md",
+    "Люди/Даниил.md",
+    "Люди/Люди.md",
+    "shaker телеметрия/shaker телеметрия.md",
+    "Люди",
+    "Pasted image 20240123113910.png",
+    "shaker телеметрия/Задачи/Аналитика/Аналитика.md",
+    "shaker телеметрия/Задачи/Аналитика",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Склад автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Создание автомата.md",
-    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Управление автоматом.md",
     "shaker телеметрия/Управление организацией.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Настройки автомата (страница настроек).md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Наполнение автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Детальная информация о автомате.md",
-    "2024-01-19.md",
-    "2024-01-23.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Статус автомата.md",
     "img/Pasted image 20240119122835.png",
     "img/Pasted image 20240119124623.png",
@@ -184,11 +226,9 @@
     "img/Pasted image 20240119124102.png",
     "img/Pasted image 20240119123718.png",
     "img/Pasted image 20240119123648.png",
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Модель",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат",
     "img/Pasted image 20240119104930.png",
-    "img/Pasted image 20240119105117.png",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Страница настройки автомата.md",
     "img",
     "Без названия.canvas",
@@ -200,17 +240,8 @@
     "shaker телеметрия/Готовый функционал/База ингредиентов",
     "shaker телеметрия/Готовый функционал",
     "shaker телеметрия/Хвосты/Управление автоматом",
-    "shaker телеметрия/Хвосты/Управление организацией",
-    "shaker телеметрия/Хвосты/База ингредиентов",
     "shaker телеметрия/Без названия.md",
-    "style guide/компонент.md",
-    "style guide/jsdoc.md",
-    "style guide/наименования констант локализации.md",
-    "style guide/Наименование и коментарии.md",
-    "Программа для Ильи/Список банков и информации необходимой из них.md",
-    "Программа для Ильи/Мой склад.md",
     "Программа для Ильи/Схема приложения.canvas",
-    "Программа для Ильи/План действий.md",
     "shaker/Контрагенты.canvas",
     "shaker/Без названия.canvas",
     "shaker/Golang с Николаем.canvas",
