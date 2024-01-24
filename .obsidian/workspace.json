@@ -24,33 +24,53 @@
           {
             "id": "b026cd60be5d30de",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2024-01-24.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
             "id": "1c7b6d9f7b49991c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2024-01-25.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "05a261e31cd8cc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7adff61076f00e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-19.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,15 +176,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-25.md"
+                "file": "2024-01-19.md"
               }
             }
+          },
+          {
+            "id": "3b72a5044c0afc18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +206,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1c7b6d9f7b49991c",
+  "active": "7adff61076f00e58",
   "lastOpenFiles": [
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "2024-01-26.md",
     "2024-01-25.md",
-    "shaker телеметрия/Хвосты/Компоненты/Chips.md",
     "2024-01-24.md",
+    "2024-01-23.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "shaker телеметрия/Хвосты/Компоненты/Chips.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Задачи/Управление автоматом/Модель/Группы моделей автомата.md",
-    "2024-01-23.md",
     "Люди/Саша бэк.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "Люди/Даниил.md",
@@ -212,7 +242,6 @@
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Настройки автомата (страница настроек).md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Наполнение автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Детальная информация о автомате.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Статус автомата.md",
     "img/Pasted image 20240119122835.png",
     "img/Pasted image 20240119124623.png",
     "img/Pasted image 20240119124543.png",
