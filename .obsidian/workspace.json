@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -159,7 +160,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md"
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md"
                   }
                 }
               },
@@ -207,16 +208,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "ffadc6be81bad57c",
+  "active": "ed05b88cd3e2ca4c",
   "lastOpenFiles": [
-    "Pasted image 20240125134733.png",
+    "img/Pasted image 20240125132912.png",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "img/Pasted image 20240125134733.png",
     "2024-01-23.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "Люди/Демьян.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
-    "Pasted image 20240125133644.png",
-    "Pasted image 20240125133633.png",
-    "Pasted image 20240125132912.png",
+    "img/Pasted image 20240125133644.png",
+    "img/Pasted image 20240125133633.png",
     "Pasted image 20240125132855 1.png",
     "Pasted image 20240125132859.png",
     "Pasted image 20240125132855.png",
@@ -251,7 +252,6 @@
     "shaker телеметрия/Управление организацией.md",
     "img/Pasted image 20240119122835.png",
     "img/Pasted image 20240119124623.png",
-    "img/Pasted image 20240119124543.png",
     "shaker телеметрия/Задачи/Управление автоматом/Модель",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат",
     "img",
