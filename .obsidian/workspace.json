@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -160,7 +159,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md"
+                    "file": "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md"
                   }
                 }
               },
@@ -208,13 +207,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "ed05b88cd3e2ca4c",
+  "active": "ffadc6be81bad57c",
   "lastOpenFiles": [
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "img/Pasted image 20240125132912.png",
     "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
     "img/Pasted image 20240125134733.png",
     "2024-01-23.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "Люди/Демьян.md",
     "img/Pasted image 20240125133644.png",
     "img/Pasted image 20240125133633.png",
