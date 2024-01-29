@@ -49,9 +49,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f347df6e1ff3ce0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c222426fe3f6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -80,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Вопрос",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +148,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -140,7 +165,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
+                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -163,7 +188,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md"
+                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md"
                   }
                 }
               },
@@ -211,14 +236,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "b9517ff3057dbe30",
+  "active": "47c222426fe3f6cf",
   "lastOpenFiles": [
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "2024-01-25.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "2024-01-30.md",
     "2024-01-29.md",
     "shaker телеметрия/shaker телеметрия.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
-    "2024-01-25.md",
     "2024-01-26.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Акции и прококоды.md",
