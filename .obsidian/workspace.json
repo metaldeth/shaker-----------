@@ -39,27 +39,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "9aa7ff17d1965232",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb0a3bea138dd073",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -218,45 +197,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "floating": {
-    "id": "6d8d25d943c9faec",
-    "type": "floating",
-    "children": [
-      {
-        "id": "94dd2e3197e11853",
-        "type": "window",
-        "children": [
-          {
-            "id": "c695e00f225b3cff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ad21cdc30958bece",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1330,
-        "y": 88,
-        "width": 1057,
-        "height": 1240,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "ad21cdc30958bece",
+  "active": "caf3b3b2a9282d8f",
   "lastOpenFiles": [
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
