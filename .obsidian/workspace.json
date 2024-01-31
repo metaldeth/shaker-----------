@@ -51,9 +51,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6fd38312b62f481e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-31.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
+                    "file": "2024-01-31.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
+                    "file": "2024-01-31.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -164,7 +177,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md"
+                    "file": "2024-01-31.md"
                   }
                 }
               },
@@ -212,12 +225,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "caf3b3b2a9282d8f",
+  "active": "6fd38312b62f481e",
   "lastOpenFiles": [
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
     "2024-01-30.md",
-    "2024-01-29.md",
+    "2024-01-31.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
+    "2024-01-29.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
     "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
@@ -254,7 +268,6 @@
     "Pasted image 20240123113910.png",
     "shaker телеметрия/Задачи/Аналитика/Аналитика.md",
     "shaker телеметрия/Задачи/Аналитика",
-    "shaker телеметрия/Задачи/Управление автоматом/Автомат/Склад автомата.md",
     "img/Pasted image 20240119122835.png",
     "img/Pasted image 20240119124623.png",
     "shaker телеметрия/Задачи/Управление автоматом/Модель",
