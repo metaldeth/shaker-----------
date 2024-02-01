@@ -79,9 +79,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "464ee63e9bd7eb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7421 Создание автомата.md",
+                    "file": "2024-02-02.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7421 Создание автомата.md",
+                    "file": "2024-02-02.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -192,7 +205,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7421 Создание автомата.md"
+                    "file": "2024-02-02.md"
                   }
                 }
               },
@@ -240,10 +253,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "42c0366162036485",
+  "active": "464ee63e9bd7eb40",
   "lastOpenFiles": [
-    "shaker телеметрия/shaker телеметрия.md",
+    "Pasted image 20240201184235.png",
+    "Pasted image 20240201184215.png",
+    "Pasted image 20240201184204.png",
+    "Pasted image 20240201184157.png",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
+    "2024-02-02.md",
+    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи",
     "2024-02-01.md",
     "2024-01-31.md",
@@ -267,8 +285,6 @@
     "img/Pasted image 20240125133644.png",
     "img/Pasted image 20240125133633.png",
     "Pasted image 20240125132855 1.png",
-    "Pasted image 20240125132859.png",
-    "Pasted image 20240125132855.png",
     "2024-01-25Сделать разделение таймеров Саша бэк Модель автомата Ячейки воды.md",
     "2024-01-24.md",
     "2024-01-19.md",
@@ -277,14 +293,11 @@
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Группы моделей автомата.md",
     "Люди/Саша бэк.md",
-    "Люди/Даниил.md",
-    "Люди/Рома.md",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды",
     "shaker телеметрия/Модули/Акции и промокоды",
     "Люди",
-    "Pasted image 20240123113910.png",
     "shaker телеметрия/Модули/Аналитика",
     "shaker телеметрия/Модули/Управление автоматом/Модель",
     "shaker телеметрия/Модули/Управление автоматом/Автомат",
