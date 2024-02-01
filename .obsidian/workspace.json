@@ -55,7 +55,6 @@
           {
             "id": "6bc8f0e800b5a195",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -63,25 +62,11 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "35304f1676af50e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-02-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,16 +225,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "35304f1676af50e0",
+  "active": "6fd38312b62f481e",
   "lastOpenFiles": [
     "2024-01-31.md",
-    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
-    "Pasted image 20240131153758.png",
+    "img/Pasted image 20240131153758.png",
     "2024-02-01.md",
+    "shaker телеметрия/Задачи/Управление автоматом/Модель/Модель автомата.md",
     "shaker телеметрия/Задачи/Управление автоматом/Автомат/Список автоматов.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Промокод.md",
     "2024-01-30.md",
-    "Pasted image 20240131153807.png",
+    "img/Pasted image 20240131153807.png",
     "2024-01-29.md",
     "shaker телеметрия/Задачи/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
     "shaker телеметрия/shaker телеметрия.md",
