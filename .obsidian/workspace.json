@@ -83,14 +83,16 @@
           {
             "id": "464ee63e9bd7eb40",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-02.md",
+                "file": "2024-02-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -165,7 +167,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "2024-02-02.md",
+                    "file": "2024-02-05.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -182,7 +184,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "2024-02-02.md",
+                    "file": "2024-02-05.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -205,7 +207,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "2024-02-02.md"
+                    "file": "2024-02-05.md"
                   }
                 }
               },
@@ -255,15 +257,16 @@
   },
   "active": "464ee63e9bd7eb40",
   "lastOpenFiles": [
+    "2024-02-01.md",
+    "2024-02-05.md",
+    "2024-02-02.md",
+    "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "Pasted image 20240201184235.png",
     "Pasted image 20240201184215.png",
     "Pasted image 20240201184204.png",
     "Pasted image 20240201184157.png",
-    "shaker телеметрия/Задачи/7421 Создание автомата.md",
-    "2024-02-02.md",
     "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи",
-    "2024-02-01.md",
     "2024-01-31.md",
     "img/Pasted image 20240131153758.png",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
@@ -284,7 +287,6 @@
     "Люди/Демьян.md",
     "img/Pasted image 20240125133644.png",
     "img/Pasted image 20240125133633.png",
-    "Pasted image 20240125132855 1.png",
     "2024-01-25Сделать разделение таймеров Саша бэк Модель автомата Ячейки воды.md",
     "2024-01-24.md",
     "2024-01-19.md",
