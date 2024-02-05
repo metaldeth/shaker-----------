@@ -107,9 +107,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04a18320ee6d839f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "2024-02-05.md",
+                    "file": "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "2024-02-05.md",
+                    "file": "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -220,7 +233,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "2024-02-05.md"
+                    "file": "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md"
                   }
                 }
               },
@@ -268,18 +281,18 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "464ee63e9bd7eb40",
+  "active": "04a18320ee6d839f",
   "lastOpenFiles": [
+    "shaker телеметрия/shaker телеметрия.md",
+    "2024-02-05.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
     "img/Pasted image 20240201184157.png",
-    "2024-02-05.md",
     "2024-02-01.md",
     "2024-02-02.md",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "img/Pasted image 20240201184235.png",
     "img/Pasted image 20240201184215.png",
     "img/Pasted image 20240201184204.png",
-    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи",
     "2024-01-31.md",
     "img/Pasted image 20240131153758.png",
