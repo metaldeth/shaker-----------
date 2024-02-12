@@ -66,9 +66,37 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "75b641cf186ec7ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2026d3cc693b1be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/shaker телеметрия.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +167,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "2024-02-07.md",
+                    "file": "shaker телеметрия/shaker телеметрия.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -156,7 +184,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "2024-02-07.md",
+                    "file": "shaker телеметрия/shaker телеметрия.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -179,7 +207,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "2024-02-07.md"
+                    "file": "shaker телеметрия/shaker телеметрия.md"
                   }
                 }
               },
@@ -214,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630.5
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,13 +255,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "5fe1ee689810679c",
+  "active": "17124502e4fd8e82",
   "lastOpenFiles": [
-    "2024-02-12.md",
-    "2024-02-07.md",
-    "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
-    "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
+    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
+    "2024-02-07.md",
+    "img/Pasted image 20240212120233.png",
+    "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
+    "2024-02-12.md",
+    "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "Без названия.canvas",
     "2024-02-05.md",
@@ -263,10 +293,8 @@
     "img/Pasted image 20240125134733.png",
     "Люди/Демьян.md",
     "img/Pasted image 20240125133644.png",
-    "img/Pasted image 20240125133633.png",
     "2024-01-25Сделать разделение таймеров Саша бэк Модель автомата Ячейки воды.md",
     "mind.md",
-    "shaker телеметрия/Хвосты/Компоненты/Chips.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности",
