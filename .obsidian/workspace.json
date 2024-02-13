@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-07.md",
+                "file": "asnefedov/2024-02-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,20 +83,22 @@
             }
           },
           {
-            "id": "2026d3cc693b1be9",
+            "id": "4710e28ff1f169bc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
+                "file": "asnefedov/2024-02-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +169,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+                    "file": "asnefedov/2024-02-13.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -184,7 +186,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+                    "file": "asnefedov/2024-02-13.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -207,7 +209,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md"
+                    "file": "asnefedov/2024-02-13.md"
                   }
                 }
               },
@@ -255,46 +257,47 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "75b641cf186ec7ef",
+  "active": "4710e28ff1f169bc",
   "lastOpenFiles": [
-    "Pasted image 20240212165735.png",
-    "shaker телеметрия/shaker телеметрия.md",
+    "asnefedov/2024-02-07.md",
+    "asnefedov/2024-02-13.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+    "asnefedov/2020-02-12.md",
+    "asnefedov/2024-01-31.md",
+    "asnefedov/2024-02-02.md",
+    "asnefedov/2024-01-30.md",
+    "img/пав.md",
+    "asnefedov",
+    "Pasted image 20240213141243.png",
+    "img/Pasted image 20240212165735.png",
+    "shaker телеметрия/shaker телеметрия.md",
+    "img/Pasted image 20240213140808.png",
+    "img/Pasted image 20240213140806.png",
+    "img/Pasted image 20240213140755.png",
+    "img/Pasted image 20240213140752.png",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
-    "2024-02-07.md",
     "img/Pasted image 20240212120233.png",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
-    "2024-02-12.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "Без названия.canvas",
-    "2024-02-05.md",
-    "2024-02-02.md",
-    "2024-02-01.md",
-    "2024-01-31.md",
-    "2024-01-30.md",
-    "2024-01-29.md",
-    "2024-01-26.md",
-    "2024-01-25.md",
-    "2024-01-24.md",
-    "2024-01-23.md",
-    "2024-01-19.md",
+    "asnefedov/2024-02-05.md",
+    "asnefedov/2024-02-01.md",
+    "asnefedov/2024-01-29.md",
+    "asnefedov/2024-01-26.md",
+    "asnefedov/2024-01-25.md",
+    "asnefedov/2024-01-24.md",
+    "asnefedov/2024-01-23.md",
+    "asnefedov/2024-01-19.md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Базовые идеи промокода.md",
     "img/Pasted image 20240201184157.png",
     "img/Pasted image 20240201184235.png",
     "img/Pasted image 20240201184215.png",
-    "img/Pasted image 20240201184204.png",
     "shaker телеметрия/Задачи",
-    "img/Pasted image 20240131153758.png",
-    "img/Pasted image 20240131153807.png",
     "shaker телеметрия/Модули/Акции и промокоды/Акции и прококоды.md",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки/Базовые идеи скидки.md",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности/Базовые идеи системы лояльности.md",
-    "img/Pasted image 20240125132912.png",
-    "img/Pasted image 20240125134733.png",
     "Люди/Демьян.md",
-    "img/Pasted image 20240125133644.png",
-    "2024-01-25Сделать разделение таймеров Саша бэк Модель автомата Ячейки воды.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности",
@@ -303,7 +306,6 @@
     "Люди",
     "shaker телеметрия/Модули/Аналитика",
     "shaker телеметрия/Модули/Управление автоматом/Модель",
-    "shaker телеметрия/Модули/Управление автоматом/Автомат",
     "Программа для Ильи/Схема приложения.canvas",
     "shaker/Контрагенты.canvas",
     "shaker/Без названия.canvas",
