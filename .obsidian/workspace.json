@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-15.md",
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-15.md",
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -222,7 +222,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-15.md"
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md"
                   }
                 }
               },
@@ -270,11 +270,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "cd9089d5d5a2c0a6",
+  "active": "75b641cf186ec7ef",
   "lastOpenFiles": [
-    "asnefedov/2024-02-14.md",
     "asnefedov/2024-02-15.md",
     "asnefedov/2024-02-13.md",
+    "asnefedov/2024-02-14.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "asnefedov/2024-02-07.md",
     "asnefedov/2020-02-12.md",
