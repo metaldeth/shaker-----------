@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-02-14.md",
+                "file": "asnefedov/2024-02-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -182,7 +182,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-14.md",
+                    "file": "asnefedov/2024-02-15.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-14.md",
+                    "file": "asnefedov/2024-02-15.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -222,7 +222,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-14.md"
+                    "file": "asnefedov/2024-02-15.md"
                   }
                 }
               },
@@ -272,8 +272,9 @@
   },
   "active": "cd9089d5d5a2c0a6",
   "lastOpenFiles": [
-    "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-14.md",
+    "asnefedov/2024-02-15.md",
+    "asnefedov/2024-02-13.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "asnefedov/2024-02-07.md",
     "asnefedov/2020-02-12.md",
@@ -310,7 +311,6 @@
     "shaker телеметрия/Задачи",
     "shaker телеметрия/Модули/Акции и промокоды/Акции и прококоды.md",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки/Базовые идеи скидки.md",
-    "shaker телеметрия/Модули/Акции и промокоды/Система лояльности/Базовые идеи системы лояльности.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности",
