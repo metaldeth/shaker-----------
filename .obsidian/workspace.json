@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-02-16.md",
+                "file": "asnefedov/2024-02-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-16.md",
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-16.md",
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -192,7 +192,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-16.md"
+                    "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md"
                   }
                 }
               },
@@ -240,10 +240,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "7eb8d2dde92b3c1f",
+  "active": "75b641cf186ec7ef",
   "lastOpenFiles": [
-    "shaker телеметрия/shaker телеметрия.md",
+    "asnefedov/2024-02-18.md",
     "asnefedov/2024-02-16.md",
+    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-15.md",
@@ -280,7 +281,6 @@
     "img/Pasted image 20240201184235.png",
     "img/Pasted image 20240201184215.png",
     "shaker телеметрия/Задачи",
-    "shaker телеметрия/Модули/Акции и промокоды/Акции и прококоды.md",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
     "shaker телеметрия/Модули/Акции и промокоды/Система лояльности",
