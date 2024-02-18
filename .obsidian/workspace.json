@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-02-18.md",
+                "file": "asnefedov/2024-02-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,9 +94,37 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "870ddf65af4e4ddc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7591 Настройки автомата.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a854d27837759954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asnefedov/2024-02-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +195,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
+                    "file": "asnefedov/2024-02-18.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -184,7 +212,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
+                    "file": "asnefedov/2024-02-18.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -207,7 +235,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md"
+                    "file": "asnefedov/2024-02-18.md"
                   }
                 }
               },
@@ -255,15 +283,20 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "68366db1956397f1",
+  "active": "a854d27837759954",
   "lastOpenFiles": [
+    "shaker телеметрия/Задачи/7591 Настройки автомата.md",
+    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
+    "shaker телеметрия/Задачи/7421 Создание автомата.md",
+    "shaker телеметрия/Задачи/().md",
+    "asnefedov/2024-02-16.md",
+    "asnefedov/2024-02-18.md",
+    "Pasted image 20240218144459.png",
+    "Pasted image 20240218143851.png",
     "Pasted image 20240218115628.png",
     "Pasted image 20240218115557.png",
     "Pasted image 20240218115517.png",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
-    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
-    "asnefedov/2024-02-18.md",
-    "asnefedov/2024-02-16.md",
     "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-15.md",
@@ -281,9 +314,6 @@
     "img/Pasted image 20240213140808.png",
     "img/Pasted image 20240213140806.png",
     "img/Pasted image 20240213140755.png",
-    "img/Pasted image 20240213140752.png",
-    "shaker телеметрия/Задачи/7421 Создание автомата.md",
-    "img/Pasted image 20240212120233.png",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "Без названия.canvas",
@@ -293,8 +323,6 @@
     "asnefedov/2024-01-26.md",
     "asnefedov/2024-01-25.md",
     "asnefedov/2024-01-24.md",
-    "asnefedov/2024-01-23.md",
-    "img/Pasted image 20240201184157.png",
     "shaker телеметрия/Задачи",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
