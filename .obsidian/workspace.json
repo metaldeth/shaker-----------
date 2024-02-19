@@ -68,19 +68,6 @@
             }
           },
           {
-            "id": "7eb8d2dde92b3c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asnefedov/2024-02-16.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68366db1956397f1",
             "type": "leaf",
             "pinned": true,
@@ -111,19 +98,6 @@
             }
           },
           {
-            "id": "071c26accad34eb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e6738bed99c5b04",
             "type": "leaf",
             "pinned": true,
@@ -137,22 +111,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "32aa0f3167a817dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,7 +184,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
+                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -240,7 +201,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
+                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -263,7 +224,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md"
+                    "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md"
                   }
                 }
               },
@@ -311,26 +272,27 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "8e6738bed99c5b04",
+  "active": "68366db1956397f1",
   "lastOpenFiles": [
+    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
+    "shaker телеметрия/Задачи/7591 Настройки автомата.md",
+    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
+    "Pasted image 20240219102648.png",
+    "asnefedov/2024-02-16.md",
     "shaker телеметрия/shaker телеметрия.md",
     "img/Pasted image 20240218115517.png",
-    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
-    "shaker телеметрия/Задачи/7591 Настройки автомата.md",
-    "asnefedov/2024-02-16.md",
     "img/Pasted image 20240218155335.png",
     "img/Pasted image 20240218155119.png",
     "img/Pasted image 20240218154546.png",
     "img/Pasted image 20240218154502.png",
     "asnefedov/2024-02-18.md",
-    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "shaker телеметрия/Задачи/().md",
     "img/Pasted image 20240218144459.png",
     "img/Pasted image 20240218143851.png",
     "img/Pasted image 20240218115628.png",
     "img/Pasted image 20240218115557.png",
-    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-15.md",
     "asnefedov/2024-02-14.md",
@@ -342,7 +304,6 @@
     "asnefedov/2024-01-30.md",
     "img/пав.md",
     "asnefedov",
-    "Pasted image 20240213141243.png",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "Без названия.canvas",
