@@ -141,9 +141,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b45f0fd0c9fff1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asnefedov/2024-02-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,7 +227,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
+                    "file": "asnefedov/2024-02-20.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
+                    "file": "asnefedov/2024-02-20.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -254,7 +267,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md"
+                    "file": "asnefedov/2024-02-20.md"
                   }
                 }
               },
@@ -302,16 +315,19 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2fbfc2e33e921af0",
+  "active": "b45f0fd0c9fff1c1",
   "lastOpenFiles": [
+    "Pasted image 20240220121512.png",
+    "Pasted image 20240220120719.png",
+    "asnefedov/2020-02-12.md",
     "asnefedov/2024-02-20.md",
-    "asnefedov/2024-02-18.md",
-    "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
-    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
-    "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+    "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
+    "asnefedov/2024-02-18.md",
+    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
+    "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "Pasted image 20240219102648.png",
     "asnefedov/2024-02-16.md",
     "shaker телеметрия/shaker телеметрия.md",
@@ -325,13 +341,11 @@
     "img/Pasted image 20240218144459.png",
     "img/Pasted image 20240218143851.png",
     "img/Pasted image 20240218115628.png",
-    "img/Pasted image 20240218115557.png",
     "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-15.md",
     "asnefedov/2024-02-14.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
     "asnefedov/2024-02-07.md",
-    "asnefedov/2020-02-12.md",
     "asnefedov/2024-01-31.md",
     "asnefedov/2024-02-02.md",
     "asnefedov/2024-01-30.md",
@@ -341,7 +355,6 @@
     "Без названия.canvas",
     "asnefedov/2024-02-05.md",
     "asnefedov/2024-02-01.md",
-    "asnefedov/2024-01-29.md",
     "shaker телеметрия/Задачи",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
