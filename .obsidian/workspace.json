@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-25.md",
+                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-25.md",
+                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -267,7 +267,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-25.md"
+                    "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md"
                   }
                 }
               },
@@ -315,10 +315,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "b45f0fd0c9fff1c1",
+  "active": "2fbfc2e33e921af0",
   "lastOpenFiles": [
-    "asnefedov/2024-02-20.md",
     "asnefedov/2024-02-25.md",
+    "asnefedov/2024-02-20.md",
     "Pasted image 20240220121512.png",
     "Pasted image 20240220120719.png",
     "asnefedov/2020-02-12.md",
