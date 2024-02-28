@@ -174,7 +174,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-02-27.md",
+                "file": "asnefedov/2024-02-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-27.md",
+                    "file": "asnefedov/2024-02-29.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-27.md",
+                    "file": "asnefedov/2024-02-29.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -293,7 +293,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-27.md"
+                    "file": "asnefedov/2024-02-29.md"
                   }
                 }
               },
@@ -343,15 +343,19 @@
   },
   "active": "21d28c5239c3b636",
   "lastOpenFiles": [
+    "Pasted image 20240228142637.png",
+    "Pasted image 20240228142632.png",
+    "Pasted image 20240228142624.png",
+    "shaker телеметрия/shaker телеметрия.md",
+    "asnefedov/2024-02-29.md",
+    "asnefedov/2024-02-27.md",
     "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
-    "asnefedov/2024-02-27.md",
     "asnefedov/2024-02-25.md",
     "asnefedov/2024-02-16.md",
     "asnefedov/2024-02-18.md",
     "asnefedov/2024-02-20.md",
     "Pasted image 20240227105529.png",
-    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
     "Pasted image 20240220121512.png",
@@ -365,10 +369,8 @@
     "img/Pasted image 20240218155335.png",
     "img/Pasted image 20240218155119.png",
     "img/Pasted image 20240218154546.png",
-    "img/Pasted image 20240218154502.png",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "shaker телеметрия/Задачи/().md",
-    "img/Pasted image 20240218144459.png",
     "asnefedov/2024-02-13.md",
     "asnefedov/2024-02-15.md",
     "asnefedov/2024-02-14.md",
@@ -378,7 +380,6 @@
     "asnefedov/2024-01-30.md",
     "img/пав.md",
     "asnefedov",
-    "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
     "shaker телеметрия/Хвосты/Компоненты",
