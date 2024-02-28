@@ -8,168 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffadc6be81bad57c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "caf3b3b2a9282d8f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "267dad4bdb3f9578",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "75b641cf186ec7ef",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "68366db1956397f1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "870ddf65af4e4ddc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/7591 Настройки автомата.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8e6738bed99c5b04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2fbfc2e33e921af0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "498d66c18ad6e801",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asnefedov/2024-02-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "b45f0fd0c9fff1c1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-02-25.md",
+                "file": "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "3a412ed6146a90d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21d28c5239c3b636",
+            "id": "e6a64b1c6f78bba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +106,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-02-29.md",
+                    "file": "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -270,7 +123,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-02-29.md",
+                    "file": "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -293,7 +146,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-02-29.md"
+                    "file": "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md"
                   }
                 }
               },
@@ -341,34 +194,35 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "21d28c5239c3b636",
+  "active": "b45f0fd0c9fff1c1",
   "lastOpenFiles": [
-    "Pasted image 20240228142637.png",
-    "Pasted image 20240228142632.png",
-    "Pasted image 20240228142624.png",
-    "shaker телеметрия/shaker телеметрия.md",
+    "Pasted image 20240228161825.png",
     "asnefedov/2024-02-29.md",
-    "asnefedov/2024-02-27.md",
-    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
-    "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
+    "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
+    "Pasted image 20240228161710.png",
+    "Pasted image 20240228161134.png",
+    "Pasted image 20240228161128.png",
+    "Pasted image 20240228161105.png",
+    "Pasted image 20240228161052.png",
     "asnefedov/2024-02-25.md",
+    "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
+    "img/Pasted image 20240219102648.png",
+    "asnefedov/2024-02-20.md",
+    "asnefedov/2024-02-27.md",
+    "img/Pasted image 20240228160445.png",
+    "img/Pasted image 20240228160322.png",
+    "img/Pasted image 20240228160233.png",
+    "img/Pasted image 20240228160225.png",
+    "shaker телеметрия/shaker телеметрия.md",
+    "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
     "asnefedov/2024-02-16.md",
     "asnefedov/2024-02-18.md",
-    "asnefedov/2024-02-20.md",
-    "Pasted image 20240227105529.png",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
-    "Pasted image 20240220121512.png",
-    "Pasted image 20240220120719.png",
     "asnefedov/2020-02-12.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
-    "Pasted image 20240219102648.png",
-    "img/Pasted image 20240218115517.png",
-    "img/Pasted image 20240218155335.png",
-    "img/Pasted image 20240218155119.png",
-    "img/Pasted image 20240218154546.png",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "shaker телеметрия/Задачи/().md",
     "asnefedov/2024-02-13.md",
@@ -378,7 +232,6 @@
     "asnefedov/2024-01-31.md",
     "asnefedov/2024-02-02.md",
     "asnefedov/2024-01-30.md",
-    "img/пав.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
