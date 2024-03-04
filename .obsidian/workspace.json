@@ -26,30 +26,14 @@
             "id": "e6a64b1c6f78bba2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "asnefedov/2024-02-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2163ee0348c31d46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "asnefedov/2024-03-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "img/Pasted image 20240304150127.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +104,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-01.md",
+                    "file": "img/Pasted image 20240304150127.png",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -137,7 +121,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-01.md",
+                    "file": "img/Pasted image 20240304150127.png",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -160,7 +144,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-01.md"
+                    "file": "img/Pasted image 20240304150127.png"
                   }
                 }
               },
@@ -208,27 +192,28 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "2163ee0348c31d46",
+  "active": "17124502e4fd8e82",
   "lastOpenFiles": [
-    "Pasted image 20240301081522.png",
+    "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+    "img/Pasted image 20240304150554.png",
+    "img/Pasted image 20240304150534.png",
+    "img/Pasted image 20240304150519.png",
+    "img/Pasted image 20240304150504.png",
+    "img/Pasted image 20240304150446.png",
+    "img/Pasted image 20240304150419.png",
+    "img/Pasted image 20240304150329.png",
+    "img/Pasted image 20240304150314.png",
+    "img/Pasted image 20240304150303.png",
+    "img/Pasted image 20240304150253.png",
+    "asnefedov/2024-02-29.md",
+    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
     "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-01.md",
-    "img/Pasted image 20240228161052.png",
     "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
-    "img/Pasted image 20240228161825.png",
-    "asnefedov/2024-02-29.md",
-    "img/Pasted image 20240228161710.png",
-    "img/Pasted image 20240228161134.png",
-    "img/Pasted image 20240228161128.png",
-    "img/Pasted image 20240228161105.png",
     "asnefedov/2024-02-25.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
-    "img/Pasted image 20240219102648.png",
     "asnefedov/2024-02-20.md",
     "asnefedov/2024-02-27.md",
-    "img/Pasted image 20240228160445.png",
-    "img/Pasted image 20240228160322.png",
-    "img/Pasted image 20240228160233.png",
     "shaker телеметрия/Задачи/7589 Цены и объёмы подключение бэка.md",
     "asnefedov/2024-02-16.md",
     "asnefedov/2024-02-18.md",
@@ -237,7 +222,6 @@
     "asnefedov/2020-02-12.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
-    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "shaker телеметрия/Задачи/().md",
     "asnefedov/2024-02-13.md",
@@ -245,7 +229,6 @@
     "asnefedov/2024-02-14.md",
     "asnefedov/2024-02-07.md",
     "asnefedov/2024-01-31.md",
-    "asnefedov/2024-02-02.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
