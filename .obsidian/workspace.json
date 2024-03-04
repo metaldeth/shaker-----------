@@ -23,12 +23,15 @@
             }
           },
           {
-            "id": "e6a64b1c6f78bba2",
+            "id": "88636957a94e78ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20240304150127.png"
+                "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -104,7 +107,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "img/Pasted image 20240304150127.png",
+                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "img/Pasted image 20240304150127.png",
+                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -144,7 +147,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "img/Pasted image 20240304150127.png"
+                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md"
                   }
                 }
               },
@@ -192,9 +195,18 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "17124502e4fd8e82",
+  "active": "88636957a94e78ed",
   "lastOpenFiles": [
+    "Pasted image 20240304172947.png",
+    "Pasted image 20240304172858.png",
+    "Pasted image 20240304172849.png",
+    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
+    "shaker телеметрия/Задачи/7591 Настройки автомата.md",
+    "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
     "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+    "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
+    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
+    "img/Pasted image 20240304150127.png",
     "img/Pasted image 20240304150554.png",
     "img/Pasted image 20240304150534.png",
     "img/Pasted image 20240304150519.png",
@@ -202,14 +214,9 @@
     "img/Pasted image 20240304150446.png",
     "img/Pasted image 20240304150419.png",
     "img/Pasted image 20240304150329.png",
-    "img/Pasted image 20240304150314.png",
-    "img/Pasted image 20240304150303.png",
-    "img/Pasted image 20240304150253.png",
     "asnefedov/2024-02-29.md",
-    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
     "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-01.md",
-    "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
     "asnefedov/2024-02-25.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Список автоматов.md",
     "asnefedov/2024-02-20.md",
@@ -218,10 +225,7 @@
     "asnefedov/2024-02-16.md",
     "asnefedov/2024-02-18.md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
-    "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
     "asnefedov/2020-02-12.md",
-    "shaker телеметрия/Задачи/7591 Настройки автомата.md",
-    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/7421 Создание автомата.md",
     "shaker телеметрия/Задачи/().md",
     "asnefedov/2024-02-13.md",
