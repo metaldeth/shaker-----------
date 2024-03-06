@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+                "file": "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb499cf96a61762e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asnefedov/2024-03-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+                    "file": "asnefedov/2024-03-06.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+                    "file": "asnefedov/2024-03-06.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -147,7 +160,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md"
+                    "file": "asnefedov/2024-03-06.md"
                   }
                 }
               },
@@ -195,15 +208,17 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "88636957a94e78ed",
+  "active": "bb499cf96a61762e",
   "lastOpenFiles": [
+    "asnefedov/2024-03-06.md",
+    "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
+    "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "Pasted image 20240304172947.png",
     "Pasted image 20240304172858.png",
     "Pasted image 20240304172849.png",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
-    "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
     "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
     "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
     "img/Pasted image 20240304150127.png",
@@ -213,7 +228,6 @@
     "img/Pasted image 20240304150504.png",
     "img/Pasted image 20240304150446.png",
     "img/Pasted image 20240304150419.png",
-    "img/Pasted image 20240304150329.png",
     "asnefedov/2024-02-29.md",
     "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-01.md",
@@ -232,7 +246,6 @@
     "asnefedov/2024-02-15.md",
     "asnefedov/2024-02-14.md",
     "asnefedov/2024-02-07.md",
-    "asnefedov/2024-01-31.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
