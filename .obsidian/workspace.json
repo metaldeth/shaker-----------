@@ -25,10 +25,25 @@
           {
             "id": "3a5f9174c87f8be3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "asnefedov/2024-03-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "09a0808b35521d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/shaker телеметрия.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -197,11 +212,12 @@
   },
   "active": "3a5f9174c87f8be3",
   "lastOpenFiles": [
-    "Pasted image 20240311103811.png",
+    "shaker телеметрия/shaker телеметрия.md",
+    "img/Pasted image 20240306141949.png",
+    "asnefedov/2024-03-11.md",
+    "img/Pasted image 20240311103811.png",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "asnefedov/2024-03-07.md",
-    "asnefedov/2024-03-11.md",
-    "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-01-25.md",
     "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
     "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
@@ -216,18 +232,16 @@
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Склад автомата.md",
     "shaker телеметрия/Управление организацией.md",
     "shaker телеметрия/База ингредиентов.md",
-    "Pasted image 20240306163231.png",
-    "Pasted image 20240306163225.png",
-    "Pasted image 20240306163136.png",
-    "Pasted image 20240306163117.png",
-    "Pasted image 20240306154231.png",
-    "Pasted image 20240306143106.png",
-    "Pasted image 20240306141949.png",
+    "img/Pasted image 20240306163231.png",
+    "img/Pasted image 20240306163225.png",
+    "img/Pasted image 20240306163136.png",
+    "img/Pasted image 20240306163117.png",
+    "img/Pasted image 20240306154231.png",
+    "img/Pasted image 20240306143106.png",
     "img/Pasted image 20240304172947.png",
     "asnefedov/2024-03-06.md",
     "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
     "img/Pasted image 20240304172858.png",
-    "img/Pasted image 20240304172849.png",
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
