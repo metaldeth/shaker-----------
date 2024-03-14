@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-03-13.md",
+                "file": "asnefedov/2024-03-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-13.md",
+                    "file": "asnefedov/2024-03-14.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-13.md",
+                    "file": "asnefedov/2024-03-14.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -175,7 +175,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-13.md"
+                    "file": "asnefedov/2024-03-14.md"
                   }
                 }
               },
@@ -225,8 +225,9 @@
   },
   "active": "3e5ab13f4b076156",
   "lastOpenFiles": [
-    "asnefedov/2024-03-12.md",
     "asnefedov/2024-03-13.md",
+    "asnefedov/2024-03-14.md",
+    "asnefedov/2024-03-12.md",
     "asnefedov/2024-03-11.md",
     "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
@@ -260,7 +261,6 @@
     "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "shaker телеметрия/Задачи/7591 Настройки автомата.md",
     "shaker телеметрия/Задачи/7599 Подготовка универсальной таблицы на примере страницы списка промокодов.md",
-    "shaker телеметрия/Задачи/6151 Доработать регистрацию на фронте.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
