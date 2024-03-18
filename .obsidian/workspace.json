@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaker телеметрия/shaker телеметрия.md",
+                "file": "asnefedov/2024-03-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/shaker телеметрия.md",
+                    "file": "asnefedov/2024-03-18.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/shaker телеметрия.md",
+                    "file": "asnefedov/2024-03-18.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -218,7 +218,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/shaker телеметрия.md"
+                    "file": "asnefedov/2024-03-18.md"
                   }
                 }
               },
@@ -268,13 +268,14 @@
   },
   "active": "115cdd78c1e7528e",
   "lastOpenFiles": [
+    "shaker телеметрия/shaker телеметрия.md",
+    "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/Ролевая структура.md",
     "asnefedov/2024-03-14.md",
     "shaker телеметрия/Задачи/Конструктор.md",
     "asnefedov/2024-03-13.md",
     "asnefedov/2024-03-12.md",
     "asnefedov/2024-03-11.md",
-    "shaker телеметрия/shaker телеметрия.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "img/Pasted image 20240311163818.png",
     "img/Pasted image 20240311174253.png",
@@ -303,7 +304,6 @@
     "shaker телеметрия/База ингредиентов.md",
     "asnefedov/2024-03-06.md",
     "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
-    "shaker телеметрия/Задачи/7527 Изменение наполнения и изменение цен подключение бэка.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
