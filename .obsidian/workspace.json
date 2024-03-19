@@ -64,9 +64,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e734ba169af88001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asnefedov/2024-03-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,46 +238,9 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "floating": {
-    "id": "76f061b72fc67a55",
-    "type": "floating",
-    "children": [
-      {
-        "id": "23eefe2c83baab2d",
-        "type": "window",
-        "children": [
-          {
-            "id": "105f9a843b47f398",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6eba301ad7b29b68",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "asnefedov/2024-03-18.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 26,
-        "y": 200,
-        "width": 1126,
-        "height": 911,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "6eba301ad7b29b68",
+  "active": "e734ba169af88001",
   "lastOpenFiles": [
+    "asnefedov/2024-03-19.md",
     "shaker телеметрия/Задачи/Ролевая структура.md",
     "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/Конструктор.md",
