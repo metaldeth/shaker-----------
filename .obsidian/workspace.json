@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-03-20.md",
+                "file": "asnefedov/2024-03-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-20.md",
+                    "file": "asnefedov/2024-03-21.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-20.md",
+                    "file": "asnefedov/2024-03-21.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -190,7 +190,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-20.md"
+                    "file": "asnefedov/2024-03-21.md"
                   }
                 }
               },
@@ -240,9 +240,11 @@
   },
   "active": "cecb967da7eeaf55",
   "lastOpenFiles": [
+    "Pasted image 20240320194639.png",
+    "asnefedov/2024-03-20.md",
+    "asnefedov/2024-03-21.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "shaker телеметрия/Идеи/Ингредиенты и наполнение.md",
-    "asnefedov/2024-03-20.md",
     "shaker телеметрия/Идеи",
     "img/Pasted image 20240320113058.png",
     "img/Pasted image 20240320113030.png",
@@ -275,8 +277,6 @@
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Страница настройки автомата.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Статус автомата.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Создание автомата.md",
-    "shaker телеметрия/Модули/Управление автоматом/Автомат/Склад автомата.md",
-    "shaker телеметрия/Управление организацией.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
