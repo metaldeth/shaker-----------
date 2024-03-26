@@ -10,3 +10,6 @@ Swagger
 [Документация модуля базы продуктов](http://dev.ishaker.ru:8305/swagger-ui/index.html)
 [Документация модуля 'Управление автоматом'](http://dev.ishaker.ru:8310/swagger-ui/index.html)
 [Группа автоматов](http://dev.ishaker.ru:8320/swagger/index.html#)
+
+# Настройка git для забирания из удалённого репозитория
+![[Pasted image 20240326102020.png]]

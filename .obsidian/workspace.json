@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-03-26.md",
+                "file": "shaker телеметрия/shaker телеметрия.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-26.md",
+                    "file": "shaker телеметрия/shaker телеметрия.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-26.md",
+                    "file": "shaker телеметрия/shaker телеметрия.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -190,7 +190,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-26.md"
+                    "file": "shaker телеметрия/shaker телеметрия.md"
                   }
                 }
               },
@@ -240,8 +240,9 @@
   },
   "active": "48dd6e257baee7f8",
   "lastOpenFiles": [
-    "asnefedov/2024-03-18.md",
+    "Pasted image 20240326102020.png",
     "asnefedov/2024-03-26.md",
+    "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
     "shaker телеметрия/Идеи/Ингредиенты и наполнение.md",
@@ -276,7 +277,6 @@
     "asnefedov/2024-03-07.md",
     "asnefedov/2024-01-25.md",
     "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
-    "shaker телеметрия/Модули/Управление автоматом/Модель/Модель автомата.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
