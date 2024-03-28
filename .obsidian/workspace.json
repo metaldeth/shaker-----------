@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-03-27.md",
+                "file": "asnefedov/2024-03-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 418.51103591918945
   },
   "right": {
     "id": "8e0e761acb91fb91",
@@ -150,7 +150,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-27.md",
+                    "file": "asnefedov/2024-03-28.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-27.md",
+                    "file": "asnefedov/2024-03-28.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -190,7 +190,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-27.md"
+                    "file": "asnefedov/2024-03-28.md"
                   }
                 }
               },
@@ -240,8 +240,9 @@
   },
   "active": "48dd6e257baee7f8",
   "lastOpenFiles": [
-    "asnefedov/2024-03-26.md",
     "asnefedov/2024-03-27.md",
+    "asnefedov/2024-03-28.md",
+    "asnefedov/2024-03-26.md",
     "shaker телеметрия/Задачи/Ролевая структура.md",
     "Pasted image 20240326203802.png",
     "Pasted image 20240326203732.png",
@@ -276,7 +277,6 @@
     "asnefedov/2024-03-11.md",
     "asnefedov/2024-03-07.md",
     "asnefedov/2024-01-25.md",
-    "shaker телеметрия/Задачи/7597 Правки по складу ячеек и ценам.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
