@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asnefedov/2024-03-29.md",
+                "file": "asnefedov/2024-04-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "asnefedov/2024-03-29.md",
+                    "file": "asnefedov/2024-04-04.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "asnefedov/2024-03-29.md",
+                    "file": "asnefedov/2024-04-04.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -190,7 +190,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "asnefedov/2024-03-29.md"
+                    "file": "asnefedov/2024-04-04.md"
                   }
                 }
               },
@@ -240,8 +240,9 @@
   },
   "active": "48dd6e257baee7f8",
   "lastOpenFiles": [
-    "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-29.md",
+    "asnefedov/2024-04-04.md",
+    "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-28.md",
     "asnefedov/2024-03-27.md",
     "asnefedov/2024-03-26.md",
@@ -276,7 +277,6 @@
     "asnefedov/2024-03-13.md",
     "asnefedov/2024-03-12.md",
     "asnefedov/2024-03-11.md",
-    "asnefedov/2024-03-07.md",
     "asnefedov",
     "Без названия.canvas",
     "shaker телеметрия/Задачи",
