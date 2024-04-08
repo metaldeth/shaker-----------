@@ -4,23 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "e34733a4243cefd0",
+        "id": "66273f425665ac6f",
         "type": "tabs",
         "children": [
           {
-            "id": "48dd6e257baee7f8",
+            "id": "36cf06605fed9ba2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                "file": "shaker телеметрия/Задачи/7953 Страница ключей (Кодов) доступа.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a6254e6645f1f4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7971 Задачи от Саши Нефедова.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "591f3b0dc114f9bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7963 Скрыть рецепты совсем пока.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3c38f2f719fe8eed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7967 Доаботка помокодов.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3d5474060e3af46e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7965 Модификации настроек настройки автомата.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8594a1b85007d3d5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shaker телеметрия/Задачи/7961 База Ингредиентов.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6f920b9e9d9a0ed4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asnefedov/2024-04-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -70,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 459.51103591918945
   },
   "right": {
     "id": "8e0e761acb91fb91",
@@ -92,7 +184,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "asnefedov/2024-04-08.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -109,7 +201,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "asnefedov/2024-04-08.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -132,7 +224,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md"
+                    "file": "asnefedov/2024-04-08.md"
                   }
                 }
               },
@@ -167,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +272,20 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "48dd6e257baee7f8",
+  "active": "6f920b9e9d9a0ed4",
   "lastOpenFiles": [
-    "asnefedov/2024-04-04.md",
+    "Pasted image 20240408132148.png",
+    "Pasted image 20240408132039.png",
+    "shaker телеметрия/Задачи/7971 Задачи от Саши Нефедова.md",
+    "asnefedov/2024-04-08.md",
+    "shaker телеметрия/Задачи/7953 Страница ключей (Кодов) доступа.md",
+    "shaker телеметрия/Задачи/7963 Скрыть рецепты совсем пока.md",
+    "shaker телеметрия/Задачи/7967 Доаботка помокодов.md",
+    "shaker телеметрия/Задачи/7965 Модификации настроек настройки автомата.md",
+    "shaker телеметрия/Задачи/7961 База Ингредиентов.md",
+    "Без названия.canvas",
     "shaker телеметрия/Обсуждения 04.04.2024.md",
+    "asnefedov/2024-04-04.md",
     "asnefedov/2024-03-29.md",
     "shaker телеметрия/shaker телеметрия.md",
     "asnefedov/2024-03-28.md",
@@ -203,24 +305,14 @@
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Склад автомата.md",
     "shaker телеметрия/Модули/Управление автоматом/Автомат/Настройки автомата (страница настроек).md",
     "shaker телеметрия/Задачи/7729 Изменения api на фронте в части настроек автомата(get запросы).md",
-    "asnefedov/2024-03-22.md",
-    "asnefedov/2024-03-21.md",
     "img/Pasted image 20240320194639.png",
-    "asnefedov/2024-03-20.md",
     "shaker телеметрия/Идеи",
     "img/Pasted image 20240320113058.png",
     "img/Pasted image 20240320113030.png",
     "img/Pasted image 20240320113004.png",
     "img/Pasted image 20240320112949.png",
-    "asnefedov/2024-03-19.md",
-    "shaker телеметрия/Задачи/Конструктор.md",
     "img/Pasted image 20240318142258.png",
-    "img/Pasted image 20240318142250.png",
-    "asnefedov/2024-03-14.md",
-    "asnefedov/2024-03-13.md",
-    "asnefedov/2024-03-12.md",
     "asnefedov",
-    "Без названия.canvas",
     "shaker телеметрия/Задачи",
     "shaker телеметрия/Хвосты/Компоненты",
     "shaker телеметрия/Модули/Акции и промокоды/Скидки",
