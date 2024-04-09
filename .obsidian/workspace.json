@@ -126,9 +126,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d1026d59291befe3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240408132148.png"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,7 +209,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "Pasted image 20240408132148.png",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -216,7 +226,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "Pasted image 20240408132148.png",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -239,7 +249,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md"
+                    "file": "Pasted image 20240408132148.png"
                   }
                 }
               },
@@ -287,8 +297,9 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "0f9d8f14d9f4e91d",
+  "active": "17124502e4fd8e82",
   "lastOpenFiles": [
+    "shaker телеметрия/Обсуждения 04.04.2024.md",
     "asnefedov/2024-04-09.md",
     "asnefedov/2024-04-08.md",
     "Pasted image 20240408132148.png",
@@ -300,7 +311,6 @@
     "shaker телеметрия/Задачи/7965 Модификации настроек настройки автомата.md",
     "shaker телеметрия/Задачи/7961 База Ингредиентов.md",
     "Без названия.canvas",
-    "shaker телеметрия/Обсуждения 04.04.2024.md",
     "asnefedov/2024-04-04.md",
     "asnefedov/2024-03-29.md",
     "shaker телеметрия/shaker телеметрия.md",
