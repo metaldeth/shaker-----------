@@ -126,19 +126,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d1026d59291befe3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240326102020.png"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -209,7 +199,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Pasted image 20240326102020.png",
+                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -226,7 +216,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Pasted image 20240326102020.png",
+                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -249,7 +239,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Pasted image 20240326102020.png"
+                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md"
                   }
                 }
               },
@@ -297,13 +287,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d1026d59291befe3",
+  "active": "0f9d8f14d9f4e91d",
   "lastOpenFiles": [
-    "img/Pasted image 20240408132148.png",
+    "Pasted image 20240408132039.png",
     "shaker телеметрия/Обсуждения 04.04.2024.md",
+    "img/Pasted image 20240326102020.png",
+    "img/Pasted image 20240408132148.png",
     "asnefedov/2024-04-09.md",
     "asnefedov/2024-04-08.md",
-    "Pasted image 20240408132039.png",
     "shaker телеметрия/Задачи/7971 Задачи от Саши Нефедова.md",
     "shaker телеметрия/Задачи/7953 Страница ключей (Кодов) доступа.md",
     "shaker телеметрия/Задачи/7963 Скрыть рецепты совсем пока.md",
@@ -320,7 +311,6 @@
     "shaker телеметрия/Задачи/Ролевая структура.md",
     "Pasted image 20240326203802.png",
     "Pasted image 20240326203732.png",
-    "Pasted image 20240326102020.png",
     "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
