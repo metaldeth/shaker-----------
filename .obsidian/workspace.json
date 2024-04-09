@@ -133,7 +133,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240326203802.png"
+                "file": "img/Pasted image 20240326203802.png"
               }
             }
           }
@@ -209,7 +209,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Pasted image 20240326203802.png",
+                    "file": "img/Pasted image 20240326203802.png",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Pasted image 20240326203802.png",
+                    "file": "img/Pasted image 20240326203802.png",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -249,7 +249,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Pasted image 20240326203802.png"
+                    "file": "img/Pasted image 20240326203802.png"
                   }
                 }
               },
@@ -319,7 +319,7 @@
     "asnefedov/2024-03-27.md",
     "asnefedov/2024-03-26.md",
     "shaker телеметрия/Задачи/Ролевая структура.md",
-    "Pasted image 20240326203802.png",
+    "img/Pasted image 20240326203802.png",
     "img/Pasted image 20240326203732.png",
     "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
