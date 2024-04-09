@@ -126,9 +126,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7eb072e04b6a1e4c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240326203802.png"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,7 +209,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "Pasted image 20240326203802.png",
                     "collapseAll": true,
                     "extraContext": true,
                     "sortOrder": "alphabetical",
@@ -216,7 +226,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md",
+                    "file": "Pasted image 20240326203802.png",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
@@ -239,7 +249,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "shaker телеметрия/Обсуждения 04.04.2024.md"
+                    "file": "Pasted image 20240326203802.png"
                   }
                 }
               },
@@ -287,10 +297,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "0f9d8f14d9f4e91d",
+  "active": "17124502e4fd8e82",
   "lastOpenFiles": [
-    "Pasted image 20240408132039.png",
     "shaker телеметрия/Обсуждения 04.04.2024.md",
+    "Pasted image 20240408132039.png",
     "img/Pasted image 20240326102020.png",
     "img/Pasted image 20240408132148.png",
     "asnefedov/2024-04-09.md",
@@ -310,7 +320,7 @@
     "asnefedov/2024-03-26.md",
     "shaker телеметрия/Задачи/Ролевая структура.md",
     "Pasted image 20240326203802.png",
-    "Pasted image 20240326203732.png",
+    "img/Pasted image 20240326203732.png",
     "asnefedov/2024-03-18.md",
     "shaker телеметрия/Задачи/7731 Изменения api на фронте в части настроек автомата(edit запросы).md",
     "shaker телеметрия/Модули/Акции и промокоды/Промокоды/Промокод.md",
